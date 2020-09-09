@@ -1,4 +1,5 @@
 # dadjokes
+Based on Traversy Media's Nuxt Crash Course.
 
 ## Build Setup
 
