@@ -2,6 +2,8 @@
 Based on Traversy Media's Nuxt Crash Course.
 https://www.youtube.com/watch?v=ltzlhAxJr74
 
+Using icanhazdadjokes API https://icanhazdadjoke.com/api
+
 ## Build Setup
 
 ```bash
